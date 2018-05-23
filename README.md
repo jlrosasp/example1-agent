@@ -6,7 +6,7 @@
 npm install
 ```
 
-### Ejectur el proyecto
+### Ejecutar el proyecto
 ```
 node app.js
 ```

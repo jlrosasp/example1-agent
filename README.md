@@ -1,12 +1,12 @@
-### Ejemplo para la Programación de un Agente en Node.js
+# Ejemplo para la Programación de un Agente en Node.js
 
 
-#Recuerda realizar la instalación de las dependencias antes de ejecutar el proyecto
+### Recuerda realizar la instalación de las dependencias antes de ejecutar el proyecto
 ```
 npm install
 ```
 
-# Ejectura el proyecto
+### Ejectur el proyecto
 ```
 node app.js
 ```

@@ -1,0 +1,16 @@
+{
+  "name": "example-agent",
+  "version": "1.0.0",
+  "description": "IoT Agent Example",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Luis Rosas Peimbert",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
